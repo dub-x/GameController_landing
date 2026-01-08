@@ -24,7 +24,7 @@
 
 ## 🔧 Installation & Setup
 
-### Option 1: 📂 Direct Browser Opening (Quick Start)
+### 📂 Option 1: Direct Browser Opening (Quick Start)
 
 1. **Clone the repository:**
    ```bash
@@ -36,7 +36,7 @@
    - Simply double-click `index.html` to open it directly in your default browser
    - The page will render immediately without any build process
 
-### Option 2: 💡 Using a Local HTTP Server (Recommended)
+### 💡 Option 2: Using a Local HTTP Server (Recommended)
 
 Using a local server ensures better compatibility with relative paths and modern browser features.
 
